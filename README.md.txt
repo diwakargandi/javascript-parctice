@@ -24,5 +24,7 @@ This repository contains my daily JavaScript practice code as I learn and improv
 - Prepare for interviews and internships
 - Practicing daily to be confident enough to solve the online platform coding problems
 
+# Purpose
+
 
 
